@@ -1,8 +1,9 @@
 # Short Course: Open Source Models with Hugging Face
+
 ### Acknowledgments
 The Python code is from the short course "Open Source Models with Hugging Face" on the DeepLearning.AI platform, available for free.  
 For more details, visit:  
-<>
+<https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
