@@ -26,7 +26,7 @@ text_translated = translator(text,
                              tgt_lang = "fra_Latn")
 
 ## ------------------------------------------------------##
-text_translated
+text_translated  # print(text_translated)
 
 ## ------------------------------------------------------##
 del translator
@@ -55,4 +55,4 @@ summary = summarizer(text,
                      max_length = 100)
 
 ## ------------------------------------------------------##
-summary
+summary  # print(summary)
